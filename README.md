@@ -17,3 +17,7 @@ This folder includes the set of Matlab scripts used in the statistical analysis 
 ### Stimuli Analysis
 This folder contains python code related to analysing and selecting the audio clips to be used as stimuli.
 Further processing will be required to convert the selected files to stimuli.
+
+## Contact
+If you have a problem running the code, please feel free to drop an issue on this repo.
+Otherwise please contact the email address given for the corresponding author in the journal article
